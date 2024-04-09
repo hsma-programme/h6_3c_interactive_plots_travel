@@ -21,5 +21,3 @@ Students should be able to:
 - Explain the benefits and downsides of using routingpy over directly interacting with different travel time APIs
 - Show an awareness of the limitations of different travel time APIs
 - Explain what an isochrone is
-- Use the isochrone method of the routingpy package
-- Plot isochrone data retrieved using routingpy
