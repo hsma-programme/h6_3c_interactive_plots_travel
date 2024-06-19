@@ -32,6 +32,25 @@ Students looking to push themselves and their understanding can go on to attempt
 
 The **challenge** section contains exercises that may go beyond what is covered in the lectures; there will be an expectation of looking things up in documentation or on sites such as StackOverflow, or using tools such as perplexity.ai to obtain boilerplate code. These exercises may take significantly longer than is allocated during the lectures and are designed to be an enjoyable challenge for those who want to push their coding skills.
 
+## Solutions
+
+Solution notebooks are available in the **solutions** folder, or can be opened in Colab. 
+
+Open Exercise 1 in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/h6_3c_interactive_plots_travel/blob/main/h6_3c_interactive_plots_travel/solutions/HSMA 3C Exercise 1 - Interactive Plots.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+Note - this notebook can struggle in Colab due to the size of the interactive plots. Running the whole notebook from top to bottom may result in your Colab instance disconnecting, so just run the cells relating to one dataset at a time, before choosing runtime --> restart kernel. 
+
+After restarting the kernel, you will need to rerun the colab-specific cell to import the repository and also rerun the cell relating to package imports. 
+
+
+Open Exercise 2 in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/h6_3c_interactive_plots_travel/blob/main/h6_3c_interactive_plots_travel/solutions/HSMA 3C Exercise 2 - Using Precalculated Travel Time Matrices.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+Open Exercise 3 in Google Colab: To be added on 26/06/2024
+
 ## Learning Objectives
 
 ### Part 1: Interactive Maps
