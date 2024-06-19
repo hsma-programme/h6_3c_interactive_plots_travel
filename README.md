@@ -1,5 +1,9 @@
 # HSMA Session 3C
 
+## Slides
+
+<a href="https://docs.google.com/presentation/d/1Xj9jYaJ_FH7ko84DGJ2M1l4DWfJ-W5wmY906UkUEgRg/edit?usp=sharing"><img src="https://img.shields.io/static/v1?label=Google+Slides&message=Click+here+to+view+the+slides+for+this+session&color=%23FBBC04&style=for-the-badge&logo=googleslides&logoColor=%23FBBC04" alt="Google Slides - Click here to view slides for this session"></a>
+
 ## Exercises
 
 The notebooks in the `exercises` folder can be downloaded and run locally if you have Python installed.
