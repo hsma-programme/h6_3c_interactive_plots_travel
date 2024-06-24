@@ -4,6 +4,16 @@
 
 <a href="https://docs.google.com/presentation/d/1Xj9jYaJ_FH7ko84DGJ2M1l4DWfJ-W5wmY906UkUEgRg/edit?usp=sharing"><img src="https://img.shields.io/static/v1?label=Google+Slides&message=Click+here+to+view+the+slides+for+this+session&color=%23FBBC04&style=for-the-badge&logo=googleslides&logoColor=%23FBBC04" alt="Google Slides - Click here to view slides for this session"></a>
 
+## Book
+
+<a href="https://hsma-programme.github.io/hsma6_geographic_optimisation_and_visualisation_book/"><img src="https://img.shields.io/static/v1?label=Book&message=Click+here+to+view+the+relevant+HSMA+book&color=%23782828&style=for-the-badge&logo=mdbook" alt="Book - Click here to view the relevant HSMA book"></a>
+
+## Lecture Recording
+
+<a href="https://youtu.be/_14heKZ9YjA"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+interactive+python+map+section&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the QGIS section of the lecture"></a>
+
+<a href="https://youtu.be/_KD7gOMPFgY"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+travel+time+section&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the python section of the lecture"></a>
+
 ## Exercises
 
 The notebooks in the `exercises` folder can be downloaded and run locally if you have Python installed.
