@@ -63,7 +63,10 @@ Open Exercise 2 in Google Colab: <a target="_blank" href="https://colab.research
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Open Exercise 3 in Google Colab: To be added on 26/06/2024
+Open Exercise 3 in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/h6_3c_interactive_plots_travel/blob/main/h6_3c_interactive_plots_travel/solutions/HSMA 3C Exercise 3 - Getting Travel Matrices with routingpy.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 ## Learning Objectives
 
