@@ -12,7 +12,7 @@
 
 <a href="https://youtu.be/_14heKZ9YjA"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+interactive+python+map+section&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the QGIS section of the lecture"></a>
 
-<a href="https://youtu.be/_KD7gOMPFgY"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+travel+time+section&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the python section of the lecture"></a>
+<a href="https://youtu.be/_KD7gOMPFgY"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+travel+time+visualisation+section&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the python section of the lecture"></a>
 
 <a href="https://www.youtube.com/watch?v=Zd8mQIXNq-o"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+routingpy+section&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the python section of the lecture"></a>
 
